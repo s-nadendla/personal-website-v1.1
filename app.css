@@ -1,0 +1,16 @@
+body {
+  background: gray;
+}
+
+#mainNavBar .nav-link{
+  color: white;
+}
+#mainNavBar .nav-link:hover{
+  color: black;
+}
+#mainNavBar .navbar-brand{
+  color: white;
+}
+section {
+  height: 100vh;
+}
